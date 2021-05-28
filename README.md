@@ -1,1 +1,1 @@
-# Proiect-SGBD
+# Proiect SGBD
